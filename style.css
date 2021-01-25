@@ -1,0 +1,13 @@
+.container {
+    list-style: none;
+}
+
+ul li{
+    display: flex;
+    margin: 20px;
+}
+
+h1{
+    color: blue;
+    font-family: sans-serif;
+}
